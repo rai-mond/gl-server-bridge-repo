@@ -1,6 +1,6 @@
 dependencies:
   express: 4.17.3
-  open-easyrtc: 2.0.12
+  open-easyrtc: 2.0.13
   serve-static: 1.14.2
   socket.io: 2.4.1
 packages:
@@ -376,7 +376,7 @@ packages:
       node: '>= 0.8'
     resolution:
       integrity: sha1-IPEzZIGwg811M3mSoWlxqi2QaUc=
-  /open-easyrtc/2.0.12:
+  /open-easyrtc/2.0.13:
     dependencies:
       async: 0.2.10
       colors: 1.4.0
@@ -387,7 +387,7 @@ packages:
     engines:
       node: '>=0.8'
     resolution:
-      integrity: sha512-pYk+mpfw9d0Sojt55KVckTJtA7sPdiQnkaiPBZehKFYdN+GKZSFYuwbq0WU2zS4l649hdaOp4iu++n5z8g6+8Q==
+      integrity: sha512-1K0zvlC8N/kPAe2gKd/C7LF7WXCr0ZTb6S+EU6IA57HFUda+3aGkvuTZq0luRfzSwSynJEtOVuLltIAhxXhFjg==
   /parseqs/0.0.6:
     dev: false
     resolution:
@@ -612,6 +612,6 @@ shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
   express: ^4.17.1
-  open-easyrtc: ^2.0.12
+  open-easyrtc: ^2.0.13
   serve-static: ^1.14.1
   socket.io: ^2.4.0
